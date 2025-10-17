@@ -14,3 +14,4 @@ C:\Users\Administrador\Documents\Estudos de Programação CSharp\WnFormCalcDep\W
 C:\Users\Administrador\Documents\Estudos de Programação CSharp\WnFormCalcDep\WnFormCalcDep\obj\Debug\net8.0-windows\WnFormCalcDep.pdb
 C:\Users\Administrador\Documents\Estudos de Programação CSharp\WnFormCalcDep\WnFormCalcDep\obj\Debug\net8.0-windows\WnFormCalcDep.genruntimeconfig.cache
 C:\Users\Administrador\Documents\Estudos de Programação CSharp\WnFormCalcDep\WnFormCalcDep\obj\Debug\net8.0-windows\ref\WnFormCalcDep.dll
+C:\Users\Administrador\Documents\Estudos de Programação CSharp\WnFormCalcDep\WnFormCalcDep\obj\Debug\net8.0-windows\WnFormCalcDep.sourcelink.json

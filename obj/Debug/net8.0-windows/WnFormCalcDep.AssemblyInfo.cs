@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WnFormCalcDep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd3a9433b2c41501f1973b2526fed168ef91065")]
 [assembly: System.Reflection.AssemblyProductAttribute("WnFormCalcDep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WnFormCalcDep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
